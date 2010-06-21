@@ -1,0 +1,579 @@
+2 has left fixed output when 2 fed on the left
+3 has left fixed output when 2 fed on the left
+4 has left fixed output when 0 fed on the left
+6 has left fixed output when 0 fed on the left
+16 has left fixed output when 2 fed on the left
+17 has left fixed output when 2 fed on the left
+18 has left fixed output when 2 fed on the left
+19 has left fixed output when 2 fed on the left
+24 has left fixed output when 2 fed on the left
+25 has left fixed output when 2 fed on the left
+26 has left fixed output when 2 fed on the left
+27 has left fixed output when 2 fed on the left
+32 has left fixed output when 0 fed on the left
+34 has left fixed output when 0 fed on the left
+34 has left fixed output when 2 fed on the left
+35 has left fixed output when 2 fed on the left
+36 has left fixed output when 0 fed on the left
+38 has left fixed output when 0 fed on the left
+42 has left fixed output when 2 fed on the left
+43 has left fixed output when 2 fed on the left
+44 has left fixed output when 2 fed on the left
+45 has left fixed output when 2 fed on the left
+48 has left fixed output when 0 fed on the left
+50 has left fixed output when 0 fed on the left
+50 has left fixed output when 2 fed on the left
+51 has left fixed output when 2 fed on the left
+52 has left fixed output when 0 fed on the left
+54 has left fixed output when 0 fed on the left
+58 has left fixed output when 2 fed on the left
+59 has left fixed output when 2 fed on the left
+60 has left fixed output when 2 fed on the left
+61 has left fixed output when 2 fed on the left
+66 has left fixed output when 2 fed on the left
+67 has left fixed output when 2 fed on the left
+68 has left fixed output when 0 fed on the left
+68 has left fixed output when 2 fed on the left
+69 has left fixed output when 2 fed on the left
+70 has left fixed output when 0 fed on the left
+72 has left fixed output when 1 fed on the left
+73 has left fixed output when 1 fed on the left
+74 has left fixed output when 2 fed on the left
+75 has left fixed output when 2 fed on the left
+78 has left fixed output when 1 fed on the left
+79 has left fixed output when 1 fed on the left
+82 has left fixed output when 2 fed on the left
+83 has left fixed output when 2 fed on the left
+84 has left fixed output when 0 fed on the left
+86 has left fixed output when 0 fed on the left
+86 has left fixed output when 2 fed on the left
+87 has left fixed output when 2 fed on the left
+88 has left fixed output when 0 fed on the left
+90 has left fixed output when 0 fed on the left
+90 has left fixed output when 2 fed on the left
+91 has left fixed output when 2 fed on the left
+94 has left fixed output when 2 fed on the left
+95 has left fixed output when 2 fed on the left
+98 has left fixed output when 2 fed on the left
+99 has left fixed output when 2 fed on the left
+100 has left fixed output when 0 fed on the left
+100 has left fixed output when 2 fed on the left
+101 has left fixed output when 2 fed on the left
+102 has left fixed output when 0 fed on the left
+104 has left fixed output when 1 fed on the left
+105 has left fixed output when 1 fed on the left
+106 has left fixed output when 2 fed on the left
+107 has left fixed output when 2 fed on the left
+110 has left fixed output when 1 fed on the left
+111 has left fixed output when 1 fed on the left
+114 has left fixed output when 2 fed on the left
+115 has left fixed output when 2 fed on the left
+116 has left fixed output when 0 fed on the left
+118 has left fixed output when 0 fed on the left
+118 has left fixed output when 2 fed on the left
+119 has left fixed output when 2 fed on the left
+120 has left fixed output when 0 fed on the left
+122 has left fixed output when 0 fed on the left
+122 has left fixed output when 2 fed on the left
+123 has left fixed output when 2 fed on the left
+126 has left fixed output when 2 fed on the left
+127 has left fixed output when 2 fed on the left
+128 has left fixed output when 2 fed on the left
+129 has left fixed output when 2 fed on the left
+130 has left fixed output when 2 fed on the left
+131 has left fixed output when 2 fed on the left
+132 has left fixed output when 0 fed on the left
+134 has left fixed output when 0 fed on the left
+134 has left fixed output when 2 fed on the left
+135 has left fixed output when 2 fed on the left
+136 has left fixed output when 0 fed on the left
+136 has left fixed output when 2 fed on the left
+137 has left fixed output when 2 fed on the left
+138 has left fixed output when 0 fed on the left
+138 has left fixed output when 1 fed on the left
+138 has left fixed output when 2 fed on the left
+139 has left fixed output when 1 fed on the left
+139 has left fixed output when 2 fed on the left
+140 has left fixed output when 1 fed on the left
+141 has left fixed output when 1 fed on the left
+142 has left fixed output when 2 fed on the left
+143 has left fixed output when 2 fed on the left
+144 has left fixed output when 2 fed on the left
+145 has left fixed output when 0 fed on the left
+145 has left fixed output when 2 fed on the left
+146 has left fixed output when 2 fed on the left
+147 has left fixed output when 0 fed on the left
+147 has left fixed output when 2 fed on the left
+148 has left fixed output when 0 fed on the left
+150 has left fixed output when 0 fed on the left
+152 has left fixed output when 2 fed on the left
+153 has left fixed output when 2 fed on the left
+154 has left fixed output when 2 fed on the left
+155 has left fixed output when 2 fed on the left
+156 has left fixed output when 2 fed on the left
+157 has left fixed output when 0 fed on the left
+157 has left fixed output when 2 fed on the left
+159 has left fixed output when 0 fed on the left
+162 has left fixed output when 2 fed on the left
+163 has left fixed output when 2 fed on the left
+164 has left fixed output when 0 fed on the left
+166 has left fixed output when 0 fed on the left
+170 has left fixed output when 2 fed on the left
+171 has left fixed output when 2 fed on the left
+172 has left fixed output when 0 fed on the left
+172 has left fixed output when 2 fed on the left
+173 has left fixed output when 2 fed on the left
+174 has left fixed output when 0 fed on the left
+178 has left fixed output when 2 fed on the left
+179 has left fixed output when 2 fed on the left
+180 has left fixed output when 0 fed on the left
+180 has left fixed output when 2 fed on the left
+181 has left fixed output when 2 fed on the left
+182 has left fixed output when 0 fed on the left
+186 has left fixed output when 2 fed on the left
+187 has left fixed output when 2 fed on the left
+188 has left fixed output when 0 fed on the left
+190 has left fixed output when 0 fed on the left
+192 has left fixed output when 2 fed on the left
+193 has left fixed output when 2 fed on the left
+194 has left fixed output when 2 fed on the left
+195 has left fixed output when 2 fed on the left
+196 has left fixed output when 0 fed on the left
+198 has left fixed output when 0 fed on the left
+198 has left fixed output when 2 fed on the left
+199 has left fixed output when 2 fed on the left
+200 has left fixed output when 0 fed on the left
+200 has left fixed output when 2 fed on the left
+201 has left fixed output when 2 fed on the left
+202 has left fixed output when 0 fed on the left
+202 has left fixed output when 1 fed on the left
+202 has left fixed output when 2 fed on the left
+203 has left fixed output when 1 fed on the left
+203 has left fixed output when 2 fed on the left
+204 has left fixed output when 1 fed on the left
+205 has left fixed output when 1 fed on the left
+206 has left fixed output when 2 fed on the left
+207 has left fixed output when 2 fed on the left
+208 has left fixed output when 2 fed on the left
+209 has left fixed output when 0 fed on the left
+209 has left fixed output when 2 fed on the left
+210 has left fixed output when 2 fed on the left
+211 has left fixed output when 0 fed on the left
+211 has left fixed output when 2 fed on the left
+212 has left fixed output when 0 fed on the left
+214 has left fixed output when 0 fed on the left
+216 has left fixed output when 2 fed on the left
+217 has left fixed output when 2 fed on the left
+218 has left fixed output when 2 fed on the left
+219 has left fixed output when 2 fed on the left
+220 has left fixed output when 2 fed on the left
+221 has left fixed output when 0 fed on the left
+221 has left fixed output when 2 fed on the left
+223 has left fixed output when 0 fed on the left
+226 has left fixed output when 2 fed on the left
+227 has left fixed output when 2 fed on the left
+228 has left fixed output when 0 fed on the left
+230 has left fixed output when 0 fed on the left
+234 has left fixed output when 2 fed on the left
+235 has left fixed output when 2 fed on the left
+236 has left fixed output when 0 fed on the left
+236 has left fixed output when 2 fed on the left
+237 has left fixed output when 2 fed on the left
+238 has left fixed output when 0 fed on the left
+242 has left fixed output when 2 fed on the left
+243 has left fixed output when 2 fed on the left
+244 has left fixed output when 0 fed on the left
+244 has left fixed output when 2 fed on the left
+245 has left fixed output when 2 fed on the left
+246 has left fixed output when 0 fed on the left
+250 has left fixed output when 2 fed on the left
+251 has left fixed output when 2 fed on the left
+252 has left fixed output when 0 fed on the left
+254 has left fixed output when 0 fed on the left
+256 has left fixed output when 0 fed on the left
+GXG
+	22, 00, 11, 11, 02, 21, 00, 00, 02
+GG
+	12, 00, 21, 21, 02, 11, 00, 00, 02
+GXGXG
+	00, 02, 00, 00, 22, 21, 02, 02, 22
+GXGG
+	00, 02, 00, 00, 12, 11, 02, 02, 12
+GXGXGXGXG
+	22, 00, 22, 22, 02, 21, 00, 00, 02
+GGXGXGXG
+	02, 00, 21, 21, 02, 22, 00, 00, 02
+GXGGXGXG
+	22, 00, 22, 22, 00, 02, 00, 00, 00
+GGGXGXG
+	21, 00, 02, 02, 00, 22, 00, 00, 00
+GXGXGXGG
+	12, 00, 12, 12, 02, 11, 00, 00, 02
+GGXGXGG
+	02, 00, 11, 11, 02, 12, 00, 00, 02
+GXGGXGG
+	12, 00, 12, 12, 00, 02, 00, 00, 00
+GGGXGG
+	11, 00, 02, 02, 00, 12, 00, 00, 00
+GXGXGXGXGXG
+	00, 02, 00, 00, 22, 21, 02, 02, 22
+GXGGXGXGXG
+	00, 02, 00, 00, 02, 22, 02, 02, 02
+GXGGXGXGXG
+	00, 02, 00, 00, 02, 22, 02, 02, 02
+GGGXGXGXG
+	21, 02, 22, 22, 02, 00, 02, 02, 02
+GXGXGGXGXG
+	00, 00, 00, 00, 22, 02, 00, 00, 22
+GXGGGXGXG
+	00, 00, 00, 00, 21, 22, 00, 00, 21
+GXGGXGGXG
+	11, 02, 11, 11, 02, 22, 02, 02, 02
+GGGXGGXG
+	00, 02, 22, 22, 02, 11, 02, 02, 02
+GXGXGGGXG
+	11, 21, 11, 11, 22, 02, 21, 21, 22
+GGXGGGXG
+	22, 21, 02, 02, 22, 11, 21, 21, 22
+GXGXGXGXGG
+	00, 02, 00, 00, 12, 11, 02, 02, 12
+GXGGXGXGG
+	00, 02, 00, 00, 02, 12, 02, 02, 02
+GXGGXGXGG
+	00, 02, 00, 00, 02, 12, 02, 02, 02
+GGGXGXGG
+	11, 02, 12, 12, 02, 00, 02, 02, 02
+GXGXGGXGG
+	00, 00, 00, 00, 12, 02, 00, 00, 12
+GXGGGXGG
+	00, 00, 00, 00, 11, 12, 00, 00, 11
+GXGGXGGG
+	21, 02, 21, 21, 02, 12, 02, 02, 02
+GGGXGGG
+	00, 02, 12, 12, 02, 21, 02, 02, 02
+GXGXGGGG
+	21, 11, 21, 21, 12, 02, 11, 11, 12
+GGXGGGG
+	12, 11, 02, 02, 12, 21, 11, 11, 12
+GXGGXGXGXGXG
+	02, 22, 02, 02, 22, 00, 22, 22, 22
+GGGXGXGXGXG
+	21, 22, 00, 00, 22, 02, 22, 22, 22
+GXGXGGXGXGXG
+	02, 02, 02, 02, 00, 22, 02, 02, 00
+GXGXGGXGXGXG
+	02, 02, 02, 02, 00, 22, 02, 02, 00
+GGXGGXGXGXG
+	00, 02, 22, 22, 00, 02, 02, 02, 00
+GXGGGXGXGXG
+	02, 02, 02, 02, 21, 00, 02, 02, 21
+GXGXGXGGXGXG
+	00, 22, 00, 00, 00, 02, 22, 22, 00
+GGXGXGGXGXG
+	00, 22, 02, 02, 00, 00, 22, 22, 00
+GXGGXGGXGXG
+	00, 22, 00, 00, 22, 00, 22, 22, 22
+GGGXGGXGXG
+	02, 22, 00, 00, 22, 00, 22, 22, 22
+GXGGGGXGXG
+	00, 21, 00, 00, 02, 00, 21, 21, 02
+GGGGGXGXG
+	22, 21, 00, 00, 02, 00, 21, 21, 02
+GXGGXGXGGXG
+	02, 22, 02, 02, 22, 11, 22, 22, 22
+GGGXGXGGXG
+	00, 22, 11, 11, 22, 02, 22, 22, 22
+GXGXGGXGGXG
+	02, 02, 02, 02, 11, 22, 02, 02, 11
+GXGGGXGGXG
+	02, 02, 02, 02, 00, 11, 02, 02, 00
+GXGGGXGGXG
+	02, 02, 02, 02, 00, 11, 02, 02, 00
+GGGGXGGXG
+	22, 02, 11, 11, 00, 02, 02, 02, 00
+GXGXGXGGGXG
+	21, 22, 21, 21, 11, 02, 22, 22, 11
+GXGGXGGGXG
+	21, 22, 21, 21, 22, 11, 22, 22, 22
+GXGGXGGGXG
+	21, 22, 21, 21, 22, 11, 22, 22, 22
+GGGXGGGXG
+	02, 22, 11, 11, 22, 21, 22, 22, 22
+GXGGGGGXG
+	21, 00, 21, 21, 02, 11, 00, 00, 02
+GGGGGGXG
+	22, 00, 11, 11, 02, 21, 00, 00, 02
+GXGGXGXGXGG
+	02, 12, 02, 02, 12, 00, 12, 12, 12
+GGGXGXGXGG
+	11, 12, 00, 00, 12, 02, 12, 12, 12
+GXGXGGXGXGG
+	02, 02, 02, 02, 00, 12, 02, 02, 00
+GXGXGGXGXGG
+	02, 02, 02, 02, 00, 12, 02, 02, 00
+GGXGGXGXGG
+	00, 02, 12, 12, 00, 02, 02, 02, 00
+GXGGGXGXGG
+	02, 02, 02, 02, 11, 00, 02, 02, 11
+GXGXGXGGXGG
+	00, 12, 00, 00, 00, 02, 12, 12, 00
+GGXGXGGXGG
+	00, 12, 02, 02, 00, 00, 12, 12, 00
+GXGGXGGXGG
+	00, 12, 00, 00, 12, 00, 12, 12, 12
+GGGXGGXGG
+	02, 12, 00, 00, 12, 00, 12, 12, 12
+GXGGGGXGG
+	00, 11, 00, 00, 02, 00, 11, 11, 02
+GGGGGXGG
+	12, 11, 00, 00, 02, 00, 11, 11, 02
+GXGGXGXGGG
+	02, 12, 02, 02, 12, 21, 12, 12, 12
+GGGXGXGGG
+	00, 12, 21, 21, 12, 02, 12, 12, 12
+GXGXGGXGGG
+	02, 02, 02, 02, 21, 12, 02, 02, 21
+GXGGGXGGG
+	02, 02, 02, 02, 00, 21, 02, 02, 00
+GXGGGXGGG
+	02, 02, 02, 02, 00, 21, 02, 02, 00
+GGGGXGGG
+	12, 02, 21, 21, 00, 02, 02, 02, 00
+GXGXGXGGGG
+	11, 12, 11, 11, 21, 02, 12, 12, 21
+GXGGXGGGG
+	11, 12, 11, 11, 12, 21, 12, 12, 12
+GXGGXGGGG
+	11, 12, 11, 11, 12, 21, 12, 12, 12
+GGGXGGGG
+	02, 12, 21, 21, 12, 11, 12, 12, 12
+GXGGGGGG
+	11, 00, 11, 11, 02, 21, 00, 00, 02
+GGGGGGG
+	12, 00, 21, 21, 02, 11, 00, 00, 02
+GXGXGXGXGXGXGXG
+	22, 00, 22, 22, 02, 21, 00, 00, 02
+GGXGXGXGXGXGXG
+	02, 00, 21, 21, 02, 22, 00, 00, 02
+GXGGXGXGXGXGXG
+	22, 00, 22, 22, 00, 02, 00, 00, 00
+GGGXGXGXGXGXG
+	21, 00, 02, 02, 00, 22, 00, 00, 00
+GXGXGGXGXGXGXG
+	22, 22, 22, 22, 02, 00, 22, 22, 02
+GXGGGXGXGXGXG
+	22, 22, 22, 22, 21, 02, 22, 22, 21
+GXGGGXGXGXGXG
+	22, 22, 22, 22, 21, 02, 22, 22, 21
+GGGGXGXGXGXG
+	00, 22, 02, 02, 21, 22, 22, 22, 21
+GXGXGXGGXGXGXG
+	02, 00, 02, 02, 02, 22, 00, 00, 02
+GXGXGXGGXGXGXG
+	02, 00, 02, 02, 02, 22, 00, 00, 02
+GGXGXGGXGXGXG
+	02, 00, 22, 22, 02, 02, 00, 00, 02
+GXGGXGGXGXGXG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GXGGXGGXGXGXG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GXGGXGGXGXGXG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GGGXGGXGXGXG
+	22, 00, 02, 02, 00, 02, 00, 00, 00
+GGGXGGXGXGXG
+	22, 00, 02, 02, 00, 02, 00, 00, 00
+GXGXGGGXGXGXG
+	02, 21, 02, 02, 02, 00, 21, 21, 02
+GGXGGGXGXGXG
+	02, 21, 00, 00, 02, 02, 21, 21, 02
+GXGGGGXGXGXG
+	02, 21, 02, 02, 22, 02, 21, 21, 22
+GGGGGXGXGXG
+	00, 21, 02, 02, 22, 02, 21, 21, 22
+GXGXGXGXGGXGXG
+	22, 00, 22, 22, 00, 02, 00, 00, 00
+GGXGXGXGGXGXG
+	00, 00, 02, 02, 00, 22, 00, 00, 00
+GGXGXGXGGXGXG
+	00, 00, 02, 02, 00, 22, 00, 00, 00
+GXGGXGXGGXGXG
+	22, 00, 22, 22, 00, 00, 00, 00, 00
+GGGXGXGGXGXG
+	02, 00, 00, 00, 00, 22, 00, 00, 00
+GGGXGXGGXGXG
+	02, 00, 00, 00, 00, 22, 00, 00, 00
+GXGXGGXGGXGXG
+	22, 22, 22, 22, 00, 00, 22, 22, 00
+GXGGGXGGXGXG
+	22, 22, 22, 22, 02, 00, 22, 22, 02
+GXGXGXGGGXGXG
+	21, 00, 21, 21, 00, 22, 00, 00, 00
+GGXGXGGGXGXG
+	00, 00, 22, 22, 00, 21, 00, 00, 00
+GXGGXGGGXGXG
+	21, 00, 21, 21, 00, 00, 00, 00, 00
+GGGXGGGXGXG
+	22, 00, 00, 00, 00, 21, 00, 00, 00
+GXGXGGGGXGXG
+	21, 02, 21, 21, 00, 00, 02, 02, 00
+GGXGGGGXGXG
+	00, 02, 00, 00, 00, 21, 02, 02, 00
+GGXGGGGXGXG
+	00, 02, 00, 00, 00, 21, 02, 02, 00
+GGGGGGXGXG
+	00, 02, 00, 00, 22, 21, 02, 02, 22
+GXGGXGXGXGGXG
+	22, 11, 22, 22, 11, 02, 11, 11, 11
+GGGXGXGXGGXG
+	00, 11, 02, 02, 11, 22, 11, 11, 11
+GXGXGGXGXGGXG
+	22, 22, 22, 22, 02, 11, 22, 22, 02
+GXGGGXGXGGXG
+	22, 22, 22, 22, 00, 02, 22, 22, 00
+GXGGXGGXGGXG
+	02, 11, 02, 02, 11, 02, 11, 11, 11
+GGGXGGXGGXG
+	22, 11, 02, 02, 11, 02, 11, 11, 11
+GXGXGGGXGGXG
+	02, 00, 02, 02, 02, 11, 00, 00, 02
+GXGXGGGXGGXG
+	02, 00, 02, 02, 02, 11, 00, 00, 02
+GGXGGGXGGXG
+	02, 00, 11, 11, 02, 02, 00, 00, 02
+GXGGGGXGGXG
+	02, 00, 02, 02, 22, 02, 00, 00, 22
+GXGGXGXGGGXG
+	22, 11, 22, 22, 11, 21, 11, 11, 11
+GGGXGXGGGXG
+	02, 11, 21, 21, 11, 22, 11, 11, 11
+GXGXGGXGGGXG
+	22, 22, 22, 22, 21, 11, 22, 22, 21
+GXGXGGXGGGXG
+	22, 22, 22, 22, 21, 11, 22, 22, 21
+GGXGGXGGGXG
+	21, 22, 11, 11, 21, 22, 22, 22, 21
+GXGGGXGGGXG
+	22, 22, 22, 22, 02, 21, 22, 22, 02
+GXGGXGGGGXG
+	00, 11, 00, 00, 11, 21, 11, 11, 11
+GGGXGGGGXG
+	22, 11, 21, 21, 11, 00, 11, 11, 11
+GXGXGGGGGXG
+	00, 02, 00, 00, 21, 11, 02, 02, 21
+GXGGGGGGXG
+	00, 02, 00, 00, 22, 21, 02, 02, 22
+GXGXGXGXGXGXGG
+	12, 00, 12, 12, 02, 11, 00, 00, 02
+GGXGXGXGXGXGG
+	02, 00, 11, 11, 02, 12, 00, 00, 02
+GXGGXGXGXGXGG
+	12, 00, 12, 12, 00, 02, 00, 00, 00
+GGGXGXGXGXGG
+	11, 00, 02, 02, 00, 12, 00, 00, 00
+GXGXGGXGXGXGG
+	12, 12, 12, 12, 02, 00, 12, 12, 02
+GXGGGXGXGXGG
+	12, 12, 12, 12, 11, 02, 12, 12, 11
+GXGGGXGXGXGG
+	12, 12, 12, 12, 11, 02, 12, 12, 11
+GGGGXGXGXGG
+	00, 12, 02, 02, 11, 12, 12, 12, 11
+GXGXGXGGXGXGG
+	02, 00, 02, 02, 02, 12, 00, 00, 02
+GXGXGXGGXGXGG
+	02, 00, 02, 02, 02, 12, 00, 00, 02
+GGXGXGGXGXGG
+	02, 00, 12, 12, 02, 02, 00, 00, 02
+GXGGXGGXGXGG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GXGGXGGXGXGG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GXGGXGGXGXGG
+	02, 00, 02, 02, 00, 02, 00, 00, 00
+GGGXGGXGXGG
+	12, 00, 02, 02, 00, 02, 00, 00, 00
+GGGXGGXGXGG
+	12, 00, 02, 02, 00, 02, 00, 00, 00
+GXGXGGGXGXGG
+	02, 11, 02, 02, 02, 00, 11, 11, 02
+GGXGGGXGXGG
+	02, 11, 00, 00, 02, 02, 11, 11, 02
+GXGGGGXGXGG
+	02, 11, 02, 02, 12, 02, 11, 11, 12
+GGGGGXGXGG
+	00, 11, 02, 02, 12, 02, 11, 11, 12
+GXGXGXGXGGXGG
+	12, 00, 12, 12, 00, 02, 00, 00, 00
+GGXGXGXGGXGG
+	00, 00, 02, 02, 00, 12, 00, 00, 00
+GGXGXGXGGXGG
+	00, 00, 02, 02, 00, 12, 00, 00, 00
+GXGGXGXGGXGG
+	12, 00, 12, 12, 00, 00, 00, 00, 00
+GGGXGXGGXGG
+	02, 00, 00, 00, 00, 12, 00, 00, 00
+GGGXGXGGXGG
+	02, 00, 00, 00, 00, 12, 00, 00, 00
+GXGXGGXGGXGG
+	12, 12, 12, 12, 00, 00, 12, 12, 00
+GXGGGXGGXGG
+	12, 12, 12, 12, 02, 00, 12, 12, 02
+GXGXGXGGGXGG
+	11, 00, 11, 11, 00, 12, 00, 00, 00
+GGXGXGGGXGG
+	00, 00, 12, 12, 00, 11, 00, 00, 00
+GXGGXGGGXGG
+	11, 00, 11, 11, 00, 00, 00, 00, 00
+GGGXGGGXGG
+	12, 00, 00, 00, 00, 11, 00, 00, 00
+GXGXGGGGXGG
+	11, 02, 11, 11, 00, 00, 02, 02, 00
+GGXGGGGXGG
+	00, 02, 00, 00, 00, 11, 02, 02, 00
+GGXGGGGXGG
+	00, 02, 00, 00, 00, 11, 02, 02, 00
+GGGGGGXGG
+	00, 02, 00, 00, 12, 11, 02, 02, 12
+GXGGXGXGXGGG
+	12, 21, 12, 12, 21, 02, 21, 21, 21
+GGGXGXGXGGG
+	00, 21, 02, 02, 21, 12, 21, 21, 21
+GXGXGGXGXGGG
+	12, 12, 12, 12, 02, 21, 12, 12, 02
+GXGGGXGXGGG
+	12, 12, 12, 12, 00, 02, 12, 12, 00
+GXGGXGGXGGG
+	02, 21, 02, 02, 21, 02, 21, 21, 21
+GGGXGGXGGG
+	12, 21, 02, 02, 21, 02, 21, 21, 21
+GXGXGGGXGGG
+	02, 00, 02, 02, 02, 21, 00, 00, 02
+GXGXGGGXGGG
+	02, 00, 02, 02, 02, 21, 00, 00, 02
+GGXGGGXGGG
+	02, 00, 21, 21, 02, 02, 00, 00, 02
+GXGGGGXGGG
+	02, 00, 02, 02, 12, 02, 00, 00, 12
+GXGGXGXGGGG
+	12, 21, 12, 12, 21, 11, 21, 21, 21
+GGGXGXGGGG
+	02, 21, 11, 11, 21, 12, 21, 21, 21
+GXGXGGXGGGG
+	12, 12, 12, 12, 11, 21, 12, 12, 11
+GXGXGGXGGGG
+	12, 12, 12, 12, 11, 21, 12, 12, 11
+GGXGGXGGGG
+	11, 12, 21, 21, 11, 12, 12, 12, 11
+GXGGGXGGGG
+	12, 12, 12, 12, 02, 11, 12, 12, 02
+GXGGXGGGGG
+	00, 21, 00, 00, 21, 11, 21, 21, 21
+GGGXGGGGG
+	12, 21, 11, 11, 21, 00, 21, 21, 21
+GXGXGGGGGG
+	00, 02, 00, 00, 11, 21, 02, 02, 11
+GXGGGGGGG
+	00, 02, 00, 00, 12, 11, 02, 02, 12
+GXGXGXGXGXGXGXGXG
+	00, 02, 00, 00, 22, 21, 02, 02, 22

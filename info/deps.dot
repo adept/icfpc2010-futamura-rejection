@@ -1,0 +1,43 @@
+digraph deps {
+node[shape=box]
+gate_fun[label="Раскусить функцию в гейтах",style=filled,fillcolor=green]
+factory_impl[label="Реализация исполнителя circuit-ов",style=filled,fillcolor=green]
+gate_fun -> factory_impl;
+
+sample_factory[label="Описание Factory из условия",style=filled,fillcolor=green]
+sample_input[label="Input stream из условия",style=filled,fillcolor=green];
+key[label="Ключ",style=filled,fillcolor=green];
+{factory_impl; sample_factory; sample_input} -> key;
+
+identity_factory[label="Factory, выдающая свой вход",style=filled,fillcolor=green];
+server_input_stream[label="Input stream на сервере",style=filled,fillcolor=green];
+identity_factory->server_input_stream;
+
+key_factory[label="Factory, выдающая key",style=filled,fillcolor=green];
+{key; server_input_stream; factory_impl; stream2factory} -> key_factory;
+key_factory -> first_money;
+first_money[label="Первые деньги",style=filled,fillcolor=green];
+stream2factory[label="Способ сделать factory, выдающую произвольный stream",style=filled,fillcolor=red];
+
+stream_encoding[label="Реверс-инжиниринг encoding-а",style=filled,fillcolor=green]
+fuel_encoding[label="Кодирование топлива",style=filled,fillcolor=yellow]
+{stream_encoding; stream2factory}->fuel_encoding
+
+car_reversing[label="Реверс-инжиниринг описания машины",style=filled,fillcolor=green];
+car_downloading[label="Автоматизация выкачивания чужих машин",style=filled,fillcolor=green];
+car_downloading -> fuel_solving;
+fuel_solving[label="Решение задачи подбора топлива под машину",style=filled,fillcolor=yellow];
+stream_encoding -> car_reversing -> fuel_solving;
+other_car_fuel_submission[label="Заливка решений для чужих машин",style=filled,fillcolor=green];
+{fuel_encoding; fuel_solving} -> other_car_fuel_submission;
+
+car_design[label="Создание собственных машин",style=filled,fillcolor=green];
+car_encoding[label="Кодирование собственных машин",style=filled,fillcolor=green];
+{car_design; stream2factory} -> car_encoding;
+car_submission[label="Заливка дизайнов своих машин",style=filled,fillcolor=green];
+{car_encoding; fuel_solving} -> car_submission;
+
+win[label="ПОБЕДА (ГАЗ-20М)"];
+{car_submission; other_car_fuel_submission} -> win;
+first_money -> win;
+}

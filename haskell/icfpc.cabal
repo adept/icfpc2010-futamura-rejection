@@ -1,0 +1,64 @@
+Name:           icfpc2010
+Version:        0.1
+Cabal-Version:  >= 1.2.3
+Build-Type:     Simple
+License:        BSD3
+Author:         Dmitry Astapov <dastapov@gmail.com>
+Maintainer:     Dmitry Astapov <dastapov@gmail.com>
+Stability:      experimental
+Synopsis:       ICFPC 2010 solution
+Description:    ICFPC 2010 solution
+Category:       Misc
+Tested-With:    GHC==6.10.4, GHC==6.12.1
+
+Flag splitBase
+  Description: Choose the new smaller, split-up base package.
+
+flag test
+  Description: Build testsuite and code coverage tests
+  Default: False
+
+Executable  gate-bruteforce
+  Hs-Source-Dirs: ./src
+  Main-Is:       gate-bruteforce.hs
+  Build-Depends: base >=3 && <=5
+
+Executable  key-bruteforce
+  Hs-Source-Dirs: ./src
+  Main-Is:       key-bruteforce.hs
+  Build-Depends: base >=3 && <=5
+
+Executable  cardump
+  Hs-Source-Dirs: ./src
+  Main-Is:       cardump.hs
+  Build-Depends: base >=3 && <=5, parsec >= 3.0.0
+
+Executable  car2solver
+  Hs-Source-Dirs: ./src
+  Main-Is:       car2solver.hs
+  Build-Depends: base >=3 && <=5, parsec >= 3.0.0
+
+Executable  encode-fuel
+  Hs-Source-Dirs: ./src
+  Main-Is:       encode-fuel.hs
+  Build-Depends: base >=3 && <=5
+
+Executable  fuel-bruteforce
+  Hs-Source-Dirs: ./src
+  Main-Is:       fuel-bruteforce.hs
+  Build-Depends: base >=3 && <=5, parsec >= 3.0.0, array
+
+Executable  trits2factory
+  Hs-Source-Dirs: ./src
+  Main-Is:       trits2superfactory.hs
+  Build-Depends: base >=3 && <=5
+
+Executable  apply-fuel
+  Hs-Source-Dirs: ./src
+  Main-Is:       apply-fuel.hs
+  Build-Depends: base >=3 && <=5
+
+Executable  encode-car
+  Hs-Source-Dirs: ./src
+  Main-Is:       encode-car.hs
+  Build-Depends: base >=3 && <=5
