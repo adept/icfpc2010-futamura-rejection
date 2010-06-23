@@ -22,7 +22,7 @@ wiring2circuit wiring = connect wiring
         where
           rev_wires = map swap wires
           makeInput = 
-            case (lookup external rev_wires) of
+            case (lookup externalGate rev_wires) of
               Just (0,X) -> error "Short-circuting input to output is not supported"
               Just x -> showSlot x
           makeOutput = 
@@ -48,35 +48,36 @@ append prev next = connected_prev ++ connected_next
     next' = map (renumber (max_prev_node+1)) next
     
     renumber inc (to,from) = ( increase to, increase from )
-      where increase (n,side) | external == (n,side) = external
+      where increase (n,side) | externalGate == (n,side) = externalGate
                               | otherwise = (n + inc, side)
             
-    -- prev_input_node = fst $ head $ filter ((==external).snd) prev
-    next_output_node = snd $ head $ filter ((==external).fst) next'
+    next_output_node = snd $ head $ filter ((==externalGate).fst) next'
 
-    connected_prev = [ (to, from') | (to,from) <- prev, let from' = if from == external then next_output_node else from ]
-    connected_next = filter ((/=external).fst) next' -- each wire will be mentioned only once
+    connected_prev = [ (to, from') | (to,from) <- prev, let from' = if from == externalGate then next_output_node else from ]
+    connected_next = filter ((/=externalGate).fst) next' -- each wire will be mentioned only once
 
-
+eval :: [(Slot, Slot)] -> [Int] -> [Int] -- wires are a list of (to slot, from slot)
 eval wires inp = 
-  case (lookup external wires) of
+  case (lookup externalGate wires) of
     Just (0,X) -> error "should not happen: external source -> external output"
-    Just (source,side) -> take (length inp) $ (if side == L then fst else snd) (fromJust (lookup source c))
+    finalNode -> take (length inp) $ maxBound `connect` finalNode 
+                 -- external gate input is assumed to be a fictitious node 
+                 -- with maximum possible ID
   where
-        c :: [ (Int,([Int],[Int])) ]
-        c = [ (n,makeGate n) | n <- [0..numGates wires] ]
-        makeGate n = 
-          let li = case (lookup (n,L) wires) of
-                     Just (0,X) -> inp
-                     Just (source,side) -> extract n side source -- (fromJust (lookup source c),side)
-              ri = case (lookup (n,R) wires) of
-                     Just (0,X) -> inp
-                     Just (source,side) -> extract n side source -- (fromJust (lookup source c),side)
-              in gate li ri
-        extract n side source = 
-          let ef = if side == L then fst else snd
-              df = if source >= n then delay else id
-              in df $ ef $ fromJust (lookup source c)
+    outputs :: [ (Int,([Int],[Int])) ] -- left and right outputs of gate 'n'
+    outputs = [ (n, evalGate n) | n <- [0..numGates wires] ]
+        
+    evalGate n = 
+      let li = n `connect` (lookup (n,L) wires)
+          ri = n `connect` (lookup (n,R) wires)
+      in gate li ri
+         
+    connect _ (Just (0,X)) = inp -- connection to external gate output in an input list
+    connect n (Just (source,side)) = 
+      let getSide = if side == L then fst else snd
+          maybeDelay = if source >= n then delay else id
+      in maybeDelay $ getSide $ fromJust (lookup source outputs)
+    connect n Nothing = error $ "Requested connection from nonexisting node to " ++ show n
 
 delay :: [Int] -> [Int]
 delay trits = (0:trits)
@@ -85,12 +86,12 @@ gate li ri = (lo,ro)
   where
     (lo,ro) = unzip $ zipWith gateF li ri
 
-gateF 0 0 = (0,2) -- via 2 and 7, step 0
-gateF 0 1 = (2,2) -- via 2.5, step 1
-gateF 0 2 = (1,2) -- via 6, step 1
-gateF 1 0 = (1,2) -- via 4, step 1
-gateF 1 1 = (0,0) -- via 3, step 2
-gateF 1 2 = (2,1) -- via 2, step 1
-gateF 2 0 = (2,2) -- via 9, step 0
-gateF 2 1 = (1,1) -- via 7, step 1
-gateF 2 2 = (0,0) -- via 3(akuklev)
+gateF 0 0 = (0,2)
+gateF 0 1 = (2,2)
+gateF 0 2 = (1,2)
+gateF 1 0 = (1,2)
+gateF 1 1 = (0,0)
+gateF 1 2 = (2,1)
+gateF 2 0 = (2,2)
+gateF 2 1 = (1,1)
+gateF 2 2 = (0,0)
